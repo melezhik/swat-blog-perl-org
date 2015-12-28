@@ -20,7 +20,7 @@ Then you need to setup `user` and `password` variables.
 
     sparrow check set_swat blog-perl-org my-account
 
-        user=melezhik
+        username=melezhik
         password=*********
 
 That's it! Now just run it:
