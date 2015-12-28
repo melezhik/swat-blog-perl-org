@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name" : "swat-blog-perl-org",
     "description": "swat smoke tests for blogs.perl.org",
     "url" : "https://github.com/melezhik/swat-blog-perl-org"
