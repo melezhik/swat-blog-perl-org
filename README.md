@@ -15,7 +15,7 @@ simple monitporing for blog.perl.org
     sparrow check set blog-perl-org my-account -u http://blogs.perl.org -p swat-blog-perl-org
     
 
-Then you need to setup `user` and `password` variables.
+Then you need to setup `username` and `password` variables.
 
 
     sparrow check set_swat blog-perl-org my-account
