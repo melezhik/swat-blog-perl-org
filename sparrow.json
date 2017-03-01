@@ -1,7 +1,9 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "name" : "swat-blog-perl-org",
     "description": "swat smoke tests for blogs.perl.org",
-    "url" : "https://github.com/melezhik/swat-blog-perl-org"
+    "url" : "https://github.com/melezhik/swat-blog-perl-org",
+    "category" : "applications tests",
+    "plugin_type" : "swat"
 }
 
