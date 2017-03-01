@@ -11,14 +11,13 @@ simple monitporing for blog.perl.org
 # Usage
 
     sparrow project create blog-perl-org
-    sparrow check add blog-perl-org my-account
-    sparrow check set blog-perl-org my-account swat-blog-perl-org
+    sparrow task add blog-perl-org my-account swat-blog-perl-org
     
 
 Then you need to setup `username` and `password` variables.
 
 
-    sparrow check ini blog-perl-org my-account
+    sparrow task ini blog-perl-org/my-account
 
     [account]
 
@@ -27,7 +26,7 @@ Then you need to setup `username` and `password` variables.
 
 That's it! Now just run it:
 
-    sparrow check run blog-perl-org my-account
+    sparrow task run blog-perl-org/my-account
 
 # Example Output
 
